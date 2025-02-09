@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AfulukweIfeanyi
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning blockchain.
-- 💞️ I’m looking to collaborate on NITDA Blockchain Training.
+- 🌱 I’m currently learning HTML, CSS, JavaScript and React.
+- 💞️ I’m looking forward to collaborate on Front-end development.
 - 📫 How to reach me: ifeanyiafulukwe@gmail.com
 
 <!---
